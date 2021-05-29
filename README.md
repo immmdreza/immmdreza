@@ -15,7 +15,7 @@ Or search for **immmdreza** ( it should be me in most cases Twitter, Instagram, 
 
 ### Most lovely language here
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immmdreza&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immmdreza&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **immmdreza/immmdreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
