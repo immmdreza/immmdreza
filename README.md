@@ -14,10 +14,6 @@ Or search for **immmdreza** ( it should be me in most cases Twitter, Instagram, 
 ### Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=immmdreza&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Most lovely language here
-
-![wars](https://www.codewars.com/users/immmdreza/badges/small)
-
 [![immmdreza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=immmdreza&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
