@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Mohammadreza (_Mostly known as Arash_) a litte mostly back-end programmer that is in rel with c Family especially C#
+![wars](https://www.codewars.com/users/immmdreza/badges/small)
 
 [Task System](https://github.com/Task-System) creator.
 
@@ -15,7 +16,7 @@ Or search for **immmdreza** ( it should be me in most cases Twitter, Instagram, 
 
 ### Most lovely language here
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immmdreza&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![wars](https://www.codewars.com/users/immmdreza/badges/small)
 
 [![immmdreza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=immmdreza&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
