@@ -4,8 +4,6 @@ I'm Mohammadreza (_Mostly known as Arash_) a litte mostly back-end programmer th
 
 [Task System](https://github.com/Task-System) creator.
 
-😷 Currently working on [TsWwPlus Telegram bot](https://t.me/TsWwPLus_bot) to make it public and open source 
-
 ### Contact 
 I'm extremely available on [Telegram](https://t.me/a_ras_h).
 
