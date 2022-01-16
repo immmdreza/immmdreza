@@ -2,7 +2,10 @@
 I'm Mohammadreza (_Mostly known as Arash_) a litte mostly back-end programmer that is in rel with c Family especially C#
 
 _playing around_
+
 ![wars](https://www.codewars.com/users/immmdreza/badges/small)
+
+[![wakatime](https://wakatime.com/badge/user/9c39234a-478b-48b4-8785-3cddc9db62d1.svg)](https://wakatime.com/@9c39234a-478b-48b4-8785-3cddc9db62d1)
 
 [Task System](https://github.com/Task-System) creator.
 
