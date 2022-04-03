@@ -11,11 +11,6 @@ I'm extremely available on [Telegram](https://t.me/a_ras_h).
 
 Or search for **immmdreza** ( it should be me in most cases Twitter, Instagram, Nuget, ... )
 
-### Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=immmdreza&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![immmdreza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=immmdreza&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **immmdreza/immmdreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
